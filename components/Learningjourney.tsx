@@ -58,11 +58,13 @@ export default function LearningJourneyGame() {
 
         {/* Heading */}
         <div className="text-center mb-10">
-          <h2 className="text-4xl font-bold">Your Hacker Journey</h2>
-          <p className="text-gray-400 mt-2">
-            See how your skills evolve week by week
-          </p>
-        </div>
+  <h2 className="text-4xl font-bold">
+    Your NerdsLab Journey
+  </h2>
+  <p className="text-gray-400 mt-2">
+    See how you grow from beginner to industry-ready pentester in 7 months
+  </p>
+</div>
 
         {/* ASK NAME (only before submit) */}
         {!submitted && (
