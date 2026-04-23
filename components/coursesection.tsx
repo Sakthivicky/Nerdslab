@@ -104,12 +104,7 @@ const courses = [
                   </span>
                 </div>
 
-                {/* Currency Dropdown */}
-                <select className="w-full mt-4 border rounded-lg px-3 py-2 text-sm">
-                  <option>INR</option>
-                  <option>USD</option>
-                </select>
-
+          
                 {/* CTA */}
                 <button className="w-full mt-4 bg-red-600 text-white py-2 rounded-lg hover:bg-red-700 transition">
                   View Details
